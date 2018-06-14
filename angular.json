@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "CinimexMeetup2/../node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.sass"
             ],
             "scripts": []
